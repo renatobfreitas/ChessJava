@@ -4,6 +4,7 @@ public class Position {
 	
 	private int row;
 	private int colum;
+	
 	public Position(int row, int colum) {
 		super();
 		this.row = row;
